@@ -1,0 +1,77 @@
+[
+  {
+    "id": 1,
+    "type": "fact",
+    "title": "PCOS Prevalence",
+    "content": "PCOS affects 1 in 10 women of reproductive age worldwide, making it one of the most common hormonal disorders.",
+    "category": "Statistics"
+  },
+  {
+    "id": 2,
+    "type": "myth",
+    "title": "PCOS Only Affects Overweight Women",
+    "myth": "Only overweight women can have PCOS",
+    "reality": "PCOS affects women of all body types. While weight can worsen symptoms, lean women can also have PCOS.",
+    "category": "Body Weight"
+  },
+  {
+    "id": 3,
+    "type": "fact",
+    "title": "Insulin Resistance Connection",
+    "content": "Up to 70% of women with PCOS have insulin resistance, which can lead to weight gain and difficulty losing weight.",
+    "category": "Metabolism"
+  },
+  {
+    "id": 4,
+    "type": "myth",
+    "title": "PCOS Means You Can't Get Pregnant",
+    "myth": "Women with PCOS can't get pregnant naturally",
+    "reality": "While PCOS can make conception more challenging, many women with PCOS do conceive naturally or with treatment.",
+    "category": "Fertility"
+  },
+  {
+    "id": 5,
+    "type": "fact",
+    "title": "Long-term Health Risks",
+    "content": "Women with PCOS have increased risk of type 2 diabetes, heart disease, and endometrial cancer if left untreated.",
+    "category": "Health Risks"
+  },
+  {
+    "id": 6,
+    "type": "myth",
+    "title": "Birth Control is the Only Treatment",
+    "myth": "Birth control pills are the only treatment for PCOS",
+    "reality": "PCOS treatment is comprehensive and may include lifestyle changes, medications, supplements, and various therapies.",
+    "category": "Treatment"
+  },
+  {
+    "id": 7,
+    "type": "fact",
+    "title": "Lifestyle Impact",
+    "content": "Lifestyle modifications including diet and exercise can improve insulin sensitivity and reduce PCOS symptoms by up to 50%.",
+    "category": "Lifestyle"
+  },
+  {
+    "id": 8,
+    "type": "myth",
+    "title": "PCOS is Just Irregular Periods",
+    "myth": "PCOS only causes irregular periods",
+    "reality": "PCOS can cause acne, hair loss, excess hair growth, weight gain, mood changes, and metabolic issues beyond irregular periods.",
+    "category": "Symptoms"
+  },
+  {
+    "id": 9,
+    "type": "fact",
+    "title": "Early Diagnosis Benefits",
+    "content": "Early diagnosis and treatment of PCOS can prevent long-term complications and improve quality of life significantly.",
+    "category": "Diagnosis"
+  },
+  {
+    "id": 10,
+    "type": "myth",
+    "title": "You Need Ovarian Cysts for PCOS",
+    "myth": "You must have ovarian cysts to be diagnosed with PCOS",
+    "reality": "Despite the name, you don't need ovarian cysts for PCOS diagnosis. Many women with PCOS don't have visible cysts.",
+    "category": "Diagnosis"
+  }
+]

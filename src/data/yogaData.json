@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "name": "Butterfly Pose",
+    "image": "https://images.pexels.com/photos/3984340/pexels-photo-3984340.jpeg?auto=compress&cs=tinysrgb&w=800",
+    "benefits": [
+      "Stimulates reproductive organs",
+      "Improves blood circulation in pelvic area",
+      "Reduces stress and anxiety",
+      "Helps with irregular periods"
+    ],
+    "level": "Beginner",
+    "duration": "2-5 minutes",
+    "instructions": "Sit with soles of feet together, gently press knees toward floor while keeping spine straight. Hold and breathe deeply.",
+    "tags": ["hormonal balance", "stress relief", "beginner"]
+  },
+  {
+    "id": 2,
+    "name": "Cobra Pose",
+    "image": "https://images.pexels.com/photos/3823183/pexels-photo-3823183.jpeg?auto=compress&cs=tinysrgb&w=800",
+    "benefits": [
+      "Stimulates ovaries and uterus",
+      "Improves spine flexibility",
+      "Reduces stress hormones",
+      "Enhances blood flow to pelvis"
+    ],
+    "level": "Intermediate",
+    "duration": "30-60 seconds",
+    "instructions": "Lie face down, place palms under shoulders, slowly lift chest while keeping hips on ground. Hold and breathe.",
+    "tags": ["spine flexibility", "hormonal balance", "intermediate"]
+  },
+  {
+    "id": 3,
+    "name": "Child's Pose",
+    "image": "https://images.pexels.com/photos/3822583/pexels-photo-3822583.jpeg?auto=compress&cs=tinysrgb&w=800",
+    "benefits": [
+      "Calms nervous system",
+      "Reduces stress and anxiety",
+      "Gentle massage for internal organs",
+      "Promotes relaxation"
+    ],
+    "level": "Beginner",
+    "duration": "1-5 minutes",
+    "instructions": "Kneel on floor, touch big toes together, sit back on heels. Fold forward with arms extended or by sides.",
+    "tags": ["stress relief", "relaxation", "beginner"]
+  },
+  {
+    "id": 4,
+    "name": "Cat-Cow Pose",
+    "image": "https://images.pexels.com/photos/3823185/pexels-photo-3823185.jpeg?auto=compress&cs=tinysrgb&w=800",
+    "benefits": [
+      "Improves spinal flexibility",
+      "Massages reproductive organs",
+      "Reduces back pain",
+      "Enhances circulation"
+    ],
+    "level": "Beginner",
+    "duration": "1-2 minutes",
+    "instructions": "Start on hands and knees. Alternate between arching back (cow) and rounding spine (cat) with breath.",
+    "tags": ["spine flexibility", "circulation", "beginner"]
+  },
+  {
+    "id": 5,
+    "name": "Legs-Up-The-Wall Pose",
+    "image": "https://images.pexels.com/photos/3823207/pexels-photo-3823207.jpeg?auto=compress&cs=tinysrgb&w=800",
+    "benefits": [
+      "Improves blood circulation",
+      "Reduces stress and fatigue",
+      "Balances hormones",
+      "Calms nervous system"
+    ],
+    "level": "Beginner",
+    "duration": "5-15 minutes",
+    "instructions": "Lie on back near wall, extend legs up wall. Relax arms by sides and breathe deeply.",
+    "tags": ["circulation", "stress relief", "hormonal balance", "beginner"]
+  },
+  {
+    "id": 6,
+    "name": "Seated Forward Bend",
+    "image": "https://images.pexels.com/photos/3823202/pexels-photo-3823202.jpeg?auto=compress&cs=tinysrgb&w=800",
+    "benefits": [
+      "Stimulates ovaries and uterus",
+      "Improves digestion",
+      "Calms mind and reduces stress",
+      "Stretches spine and hamstrings"
+    ],
+    "level": "Intermediate",
+    "duration": "1-3 minutes",
+    "instructions": "Sit with legs extended, slowly fold forward from hips, reaching toward feet. Keep spine long.",
+    "tags": ["hormonal balance", "digestion", "stress relief", "intermediate"]
+  }
+]

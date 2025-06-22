@@ -1,0 +1,80 @@
+{
+  "foodsToEat": [
+    {
+      "category": "Anti-inflammatory Foods",
+      "foods": [
+        { "name": "Fatty Fish", "description": "Salmon, sardines, mackerel - rich in omega-3 fatty acids", "benefits": ["Reduces inflammation", "Improves insulin sensitivity"] },
+        { "name": "Leafy Greens", "description": "Spinach, kale, arugula - packed with nutrients", "benefits": ["High in antioxidants", "Supports hormone production"] },
+        { "name": "Berries", "description": "Blueberries, raspberries, strawberries", "benefits": ["Low glycemic index", "Rich in antioxidants"] },
+        { "name": "Nuts and Seeds", "description": "Almonds, walnuts, chia seeds, flaxseeds", "benefits": ["Healthy fats", "Fiber and protein"] }
+      ]
+    },
+    {
+      "category": "Complex Carbohydrates",
+      "foods": [
+        { "name": "Quinoa", "description": "Complete protein grain", "benefits": ["Stable blood sugar", "High protein content"] },
+        { "name": "Sweet Potatoes", "description": "Nutrient-dense root vegetable", "benefits": ["Rich in fiber", "Contains beta-carotene"] },
+        { "name": "Oats", "description": "Steel-cut or rolled oats", "benefits": ["Lowers cholesterol", "Sustained energy"] },
+        { "name": "Brown Rice", "description": "Whole grain rice", "benefits": ["B vitamins", "Sustained energy release"] }
+      ]
+    },
+    {
+      "category": "Lean Proteins",
+      "foods": [
+        { "name": "Chicken Breast", "description": "Skinless, organic when possible", "benefits": ["Complete protein", "Low in saturated fat"] },
+        { "name": "Legumes", "description": "Lentils, chickpeas, black beans", "benefits": ["Plant-based protein", "High in fiber"] },
+        { "name": "Greek Yogurt", "description": "Plain, unsweetened", "benefits": ["Probiotics", "High protein"] },
+        { "name": "Eggs", "description": "Organic, free-range", "benefits": ["Complete protein", "Choline for brain health"] }
+      ]
+    }
+  ],
+  "foodsToAvoid": [
+    {
+      "category": "Refined Carbohydrates",
+      "foods": [
+        { "name": "White Bread", "reason": "Causes blood sugar spikes", "alternatives": ["Whole grain bread", "Almond flour bread"] },
+        { "name": "Pastries", "reason": "High sugar and refined flour", "alternatives": ["Homemade oat muffins", "Nut-based treats"] },
+        { "name": "White Rice", "reason": "High glycemic index", "alternatives": ["Brown rice", "Cauliflower rice"] }
+      ]
+    },
+    {
+      "category": "Processed Foods",
+      "foods": [
+        { "name": "Fast Food", "reason": "High in trans fats and sodium", "alternatives": ["Home-cooked meals", "Meal prep containers"] },
+        { "name": "Packaged Snacks", "reason": "Added sugars and preservatives", "alternatives": ["Fresh fruits", "Homemade trail mix"] },
+        { "name": "Processed Meats", "reason": "High sodium and nitrates", "alternatives": ["Fresh lean meats", "Plant-based proteins"] }
+      ]
+    },
+    {
+      "category": "Sugary Items",
+      "foods": [
+        { "name": "Soda", "reason": "Empty calories and sugar spikes", "alternatives": ["Sparkling water with lemon", "Herbal teas"] },
+        { "name": "Candy", "reason": "Pure sugar with no nutrients", "alternatives": ["Dark chocolate (70%+)", "Fresh berries"] },
+        { "name": "Fruit Juices", "reason": "Concentrated sugars without fiber", "alternatives": ["Whole fruits", "Infused water"] }
+      ]
+    }
+  ],
+  "mealPlan": [
+    {
+      "day": "Monday",
+      "breakfast": "Greek yogurt with berries and chia seeds",
+      "lunch": "Quinoa salad with grilled chicken and vegetables",
+      "dinner": "Baked salmon with roasted sweet potatoes and broccoli",
+      "snack": "Handful of almonds and an apple"
+    },
+    {
+      "day": "Tuesday",
+      "breakfast": "Oatmeal with walnuts and cinnamon",
+      "lunch": "Lentil soup with whole grain bread",
+      "dinner": "Stir-fried vegetables with tofu over brown rice",
+      "snack": "Greek yogurt with cucumber slices"
+    },
+    {
+      "day": "Wednesday",
+      "breakfast": "Scrambled eggs with spinach and avocado",
+      "lunch": "Chicken and vegetable soup",
+      "dinner": "Grilled chicken breast with quinoa and steamed vegetables",
+      "snack": "Mixed berries with a few nuts"
+    }
+  ]
+}
